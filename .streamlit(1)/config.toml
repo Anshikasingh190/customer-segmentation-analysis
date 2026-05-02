@@ -1,0 +1,17 @@
+[theme]
+base = "light"  # default light mode, user can still switch to dark in UI
+
+# Light mode palette based on your spec:
+# Primary: Blue/Teal
+primaryColor = "#1575c9"
+
+# Background: Light grey/white
+backgroundColor = "#f9fafb"
+
+# Sidebar / cards: slightly darker light grey
+secondaryBackgroundColor = "#f3f4f6"
+
+# Text color: almost black
+textColor = "#020617"
+
+# (Accent purple will mostly be used in charts / custom styles)
