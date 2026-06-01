@@ -10,11 +10,12 @@ This project focuses on analyzing customer data to identify different customer s
 * Identify high-value customers
 * Provide actionable business insights
 
-##  Tools & Technologies
+## Tools & Technologies
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
-* Machine Learning (K-Means Clustering)
-* Jupyter Notebook
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+- Machine Learning (K-Means Clustering, Scikit-learn)
+- Streamlit (interactive web app)
+- SQLite (user authentication)
 
 ## How to Run
 
